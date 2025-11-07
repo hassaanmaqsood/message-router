@@ -1,13 +1,5 @@
 # MessageRouter — Hierarchical Message Routing System (JavaScript Port)
 
-**Version:** 2.0
-**Author:** [You / Fabify Core Systems]
-**License:** MIT
-**Language:** JavaScript (ES6+)
-**Dependencies:** None
-
----
-
 ## Overview
 
 `MessageRouter` is a **hierarchical message routing and dispatch system** designed for distributed or modular environments — such as:

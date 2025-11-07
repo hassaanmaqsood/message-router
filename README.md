@@ -302,7 +302,7 @@ router.printStatus();
 
 ---
 
-## 🧩 Internal Data Structures
+## Internal Data Structures
 
 ### `listeners`
 
@@ -338,7 +338,7 @@ Array of queued messages (not tied to locks)
 
 ---
 
-## 🔍 Debugging & Introspection
+## Debugging & Introspection
 
 The `getStatus()` and `printStatus()` methods give full insight into:
 

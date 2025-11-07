@@ -21,7 +21,7 @@ It is designed to be **deterministic**, **lightweight**, and **debug-friendly**,
 
 ---
 
-## ⚙️ Architectural Principles
+## Architectural Principles
 
 1. **Path-based Hierarchy:**
    Every listener is attached to a normalized path.
